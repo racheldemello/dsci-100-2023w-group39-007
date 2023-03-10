@@ -6,4 +6,4 @@ The data set thoroughly summarizes the general relavant information of each play
 can we predict a player's ranking based on their country of origin. All of these pieces of information help to further reinstate the players status in their ranking, and will help to justify their abilities and winnings. (For example, players who earns more have likely been playing longer and are higher ranked). Conclusively, this data provides insight and comprehensive data revolving around the status of these internationally-ranked tennis players. 
 
 -> correlation between continent of origin and relative earnings. 
-age, current rank
+age, current rank.
